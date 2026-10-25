@@ -1,0 +1,5 @@
+Functional Requirements:
+User should be able to select pariticular item
+User should be able to make payment
+Different Payment Options
+Admin can update inventory //not implemented, can de done easily
